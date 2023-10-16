@@ -1,0 +1,24 @@
+.flex {
+	display:flex;
+}
+.flex-1 {
+	flex:1;
+}
+.justify-content {
+	justify-content:center;
+}
+.justify-between {
+	justify-content:space-between;
+}
+.align-items {
+	align-items:center;
+}
+.btn {
+	padding: 8px 30px;
+	font-weight: 600;
+	text-transform: uppercase;
+	border: 2px solid transparent;
+	outline: none;
+	cursor: pointer;
+	transition:all 0.2s ease;
+}
